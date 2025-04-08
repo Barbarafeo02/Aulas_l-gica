@@ -1,0 +1,11 @@
+# Arquivos  temporários
+*.tmp 
+# Arquivos de compilação
+*.exe
+# Diretorio de Dependencias
+node_modules/
+
+#Alterando
+*gitignore
+
+exercícios/
