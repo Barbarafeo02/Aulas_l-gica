@@ -1,4 +1,4 @@
-let ListaAnimal = [`GATO`, `CACHORRO`, `PÁSSARO`, `PEIXE`]
-for(letra of ListaAnimal){
-    console.log(letra)
+let ListaAnimal = [`gato`, `cachorro`, `pássaro`, `peixe`]
+for(animal of ListaAnimal){
+    console.log(animal.toUpperCase())
 }
